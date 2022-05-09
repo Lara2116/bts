@@ -1,0 +1,17 @@
+[
+  {
+     "id": 1,
+    "username": "lara1",
+    "email": "lara1@email.com",
+    "device_id":"987654343",
+    "address":"Damascus",
+    "ammount":"12000"
+   },{
+    "id": 2,
+    "username": "lara2",
+    "email": "lara2@email.com",
+    "device_id":"987654321",
+    "address":"Damascus",
+    "ammount":"10000"
+   }
+]
